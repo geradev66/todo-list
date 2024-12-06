@@ -1,0 +1,20 @@
+body{
+    background: rgb(255,0,176);
+    background: linear-gradient(90deg, rgba(255,0,176,1) 0%, rgba(0,212,255,1) 100%);
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    gap: 2em;
+    
+}
+
+.total{
+    display: flex;
+    gap: 1em;
+}
+
+.realizadas{
+    display: flex;
+    gap: 1em;
+}
